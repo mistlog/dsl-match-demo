@@ -1,0 +1,11 @@
+{
+  "name": "typedraft-template",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "draft-dsl-match": "^0.1.0"
+  }
+}

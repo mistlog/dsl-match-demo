@@ -8,8 +8,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "draft-dsl-match": "0.1.0",
-    "typedraft": "0.2.2"
+    "draft-dsl-match": "0.0.0-a51d7fe.0",
+    "typedraft": "0.2.5"
   },
   "dependencies": {}
 }

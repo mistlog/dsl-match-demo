@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "./build",
+        "declaration": false,
+        "jsx": "preserve",
+        "types": ["typedraft"]
+    },
+}
